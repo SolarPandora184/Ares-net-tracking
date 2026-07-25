@@ -13,7 +13,7 @@ const firebaseConfig = {
   authDomain: "ares-projects.firebaseapp.com",
   // TODO: paste this in once you've created a Realtime Database (see setup steps).
   // It looks like: "https://ares-projects-default-rtdb.firebaseio.com"
-  databaseURL: "REPLACE_ME_AFTER_CREATING_REALTIME_DATABASE",
+  databaseURL: "https://ares-projects-default-rtdb.firebaseio.com/",
   projectId: "ares-projects",
   storageBucket: "ares-projects.firebasestorage.app",
   messagingSenderId: "168912227431",
